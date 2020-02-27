@@ -2,7 +2,7 @@
 selectors). */
 body {
   margin: 25px;
-  background-color: rgb(240,0,240);
+  background-color: rgb(240,240,240);
   font-family: arial, sans-serif;
   font-size: 14px;
   color: blue;
@@ -19,4 +19,4 @@ h1 {
 .someclass { color: red; }
 
 /* Applies to the element with <... id="someid"> specified. */
-#button { color: blue; }/* Empty. Add your own CSS if you like */
+#button { color: black; }/* Empty. Add your own CSS if you like */
